@@ -1,6 +1,6 @@
 # Mixtape Board
 This board is a digital "mixtape," designed to be a compact way to share a music playlist with friends. 
-Similar to a cassette, has allure (or disadvantage!) of not knowing what is up next.
+Similar to a cassette, has allure (or disadvantage) of not knowing what is up next.
 
 This board is a work in progress--some circuits have been tested previously, but the full design is currently untested. Now waiting to get boards back from fab.
 
