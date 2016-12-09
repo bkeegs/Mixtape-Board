@@ -6,7 +6,7 @@ Similar to a cassette, when given to others it has a surprise factor of not know
 This board is a work in progress--some circuits have been tested previously, but the full design is currently untested. Now waiting to get boards back from fab.
 
 ### Main Features:
-* Plug-in bluetooth module (like the [HC-06](http://www.gearbest.com/sensors/pp_241478.html) or [CC2540](https://tronixlabs.com.au/breakout-boards/bluetooth/cc2540-serial-bluetooth-v4-0-ble-module-ibeacon-australia/)) allows for remote control with an android phone or PC.
+* Plug-in bluetooth module (like the [HC-06](http://www.gearbest.com/sensors/pp_241478.html) or [CC2540](https://tronixlabs.com.au/breakout-boards/bluetooth/cc2540-serial-bluetooth-v4-0-ble-module-ibeacon-australia/)) allows for remote control with an phone or computer.
 * Power comes from a rechargeable [18650 Li-ion battery.](https://github.com/bkeegs/18650-Charge-Board) 
 * Teensy 3.2 is used as the microcontroller.
 * Audio is single channel, 3W Class-D amplifier using a PAM8009DHR
