@@ -3,7 +3,7 @@ This board is a digital "mixtape," designed to be a compact way to share a music
 
 Similar to a cassette, when given to others it has a surprise factor of not knowing what's up next.
 
-This board is a work in progress--some circuits have been tested previously, but the full design is currently untested. Now waiting to get boards back from fab.
+1 board was built up in December 2016, and general functionality (power regulation, bluetooth control, SD card, audio out) was confirmed. 
 
 ### Main Features:
 * Plug-in bluetooth module (like the [HC-06](http://www.gearbest.com/sensors/pp_241478.html) or [CC2540](https://tronixlabs.com.au/breakout-boards/bluetooth/cc2540-serial-bluetooth-v4-0-ble-module-ibeacon-australia/)) allows for remote control with an phone or computer.
